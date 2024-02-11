@@ -9,8 +9,6 @@ npm-debug.log.*
 /.cache-loader/*
 
 
-/src/main/java/com/ensaj/config/dbmigrations/InitialSetupMigration.java
-
 ######################
 # SASS
 ######################
